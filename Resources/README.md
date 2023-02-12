@@ -85,9 +85,23 @@ Package #18: 'code .' [Note: To open 'VS Code']
 ```
 
 
-## #3 Git Cheat Code
+### #3 Steps to open an 'iOS Simulator'
+```
+Step #1: Type 'xcrun simctl list devices'
+[FYI: List all 'iOS Simulators' / 'Physical Devices']
+
+Step #2: Type 'open -a Simulator'
+[FYI: To open ios simulator, Default will be 'iPhone 14']
 ```
 
+
+### #4 Steps to open an 'Android Emulator'
+```
+Step #1: Type 'adb devices'
+FYI: List all 'Android Emulators' / 'Physical Devices']
+
+Step #2: Type 'emulator -avd Pixel'
+[FYI: To open android emulator named 'Pixel', if it doen't open type 'source ~/.bash_profile' then type 'emulator -avd Pixel' again]
 ```
 
 
