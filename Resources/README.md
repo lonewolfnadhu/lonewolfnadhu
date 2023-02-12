@@ -1,4 +1,4 @@
-# My Favourite configuration, cheat code and so on [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/auther-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
+# My favourite configuration, cheat code and so on [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/auther-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
 Created by [Nadir Shah](https://linktr.ee/lonewolfnadhu)
 
 
