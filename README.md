@@ -67,4 +67,4 @@ Show your support!
 Made with ❤️
 
 
-Copyright © 2020-2023 [Nadir](https://linktr.ee/lonewolfnadhu)
+Copyright © 2020-2023 [Nadir Shah](https://linktr.ee/lonewolfnadhu)
