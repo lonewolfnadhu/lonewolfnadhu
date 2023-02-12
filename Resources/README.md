@@ -85,7 +85,7 @@ Package #18: 'code .' [Note: To open 'VS Code']
 ```
 
 
-## #2 Git Cheat Code
+## #3 Git Cheat Code
 ```
 
 ```
