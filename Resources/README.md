@@ -231,6 +231,9 @@ Step #08: ssh -T git@github.com
 
 
 ## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/projects-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
+
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/nadir-icon.jpg">](https://github.com/lonewolfnadhu)
+
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=07442013458&lang=en)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
