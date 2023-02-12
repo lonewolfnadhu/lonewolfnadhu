@@ -1,10 +1,49 @@
-# Utilities [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/projects-icon.png">](https://github.com/iamnadhu/Utilities)
-Created by [Nadhu](https://linktr.ee/iamnadhu)
-
-This repository is to handle my entire utilities.
+# Lone Wolf Nadhu [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/nadir-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
+Created by [Nadir Shah](https://linktr.ee/lonewolfnadhu)
 
 
-## #1 VS Code Configuration
+## #1 Terminal Configuration
+```
+[FYI: Configure 'Terminal' as below for better performance and making work faster]
+
+Step #01: Make current user a root user
+Type: dsenableroot
+
+Step #02: Install ZSH via homebrew
+Type: brew install zsh
+
+Step #03: Make it your default shell
+Type: chsh -s /bin/zsh
+
+Step #04: Verify the shell
+Type: echo $SHELL (Note: Check whether it prints '/usr/bin/zsh')
+
+Step #05: Install 'Oh My Zsh'
+Type: sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+Step #06: Clone 'PowerLeve10K theme'
+Type: git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+
+Step #07: Clone 'autosuggestion'
+Type: sudo git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+
+Step #08: Clone 'highlighting'
+Type: sudo git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+
+Step #09: Open ".zshrc" and replace these sections / files
+1. ZSH_THEME="powerlevel10k/powerlevel10k"
+2. ENABLE_CORRECTION="true"
+3. plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+
+Step #10: To final configuration
+Type: p10k configure
+
+Reference: 
+https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell-and-powerlevel10k-6484461c6efb
+```
+
+
+## #2 VS Code Configuration
 ```
 [FYI: Install below 'VS Code' packages to make your IDE more stable and for better performance]
 
@@ -46,66 +85,24 @@ Package #18: 'code .' [Note: To open 'VS Code']
 ```
 
 
-## #2 Terminal Configuration
+## #2 Git Cheat Code
 ```
-[FYI: Configure 'Terminal' as below for better performance and making work faster]
 
-Step #01: Make current user a root user
-Type: dsenableroot
-
-Step #02: Install ZSH via homebrew
-Type: brew install zsh
-
-Step #03: Make it your default shell
-Type: chsh -s /bin/zsh
-
-Step #04: Verify the shell
-Type: echo $SHELL (Note: Check whether it prints '/usr/bin/zsh')
-
-Step #05: Install 'Oh My Zsh'
-Type: sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
-Step #06: Clone 'PowerLeve10K theme'
-Type: git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
-
-Step #07: Clone 'autosuggestion'
-Type: sudo git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
-
-Step #08: Clone 'highlighting'
-Type: sudo git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
-
-Step #09: Open ".zshrc" and replace these sections / files
-1. ZSH_THEME="powerlevel10k/powerlevel10k"
-2. ENABLE_CORRECTION="true"
-3. plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
-
-Step #10: To final configuration
-Type: p10k configure
-
-Reference: 
-https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell-and-powerlevel10k-6484461c6efb
 ```
 
 
-## Author [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
-Created by [Nadhu](https://linktr.ee/iamnadhu)
-
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/nadhu-icon.jpg">](https://linktr.ee/iamnadhu)
-
-Follow me on: 
-
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/telegram-icon.png">](https://t.me/iamnadhu)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resourcess/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/github-icon.png">](https://github.com/iamnadhu)
+## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/projects-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=07442013458&lang=en)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/facebook-icon.png">](https://www.facebook.com/lonewolfnadhu/)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/github-icon.png">](https://github.com/lonewolfnadhu)
 
 
 Show your support!
 
-Please ⭐️   this repository if this section helped you!
+
+Made with ❤️
 
 
-## License [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/license-icon.png">](https://github.com/iamnadhu/Utilities)
-Copyright © 2021-2022 [Nadhu](https://linktr.ee/iamnadhu)
+Copyright © 2020-2023 [Nadir Shah](https://linktr.ee/lonewolfnadhu)
