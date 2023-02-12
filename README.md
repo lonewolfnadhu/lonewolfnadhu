@@ -46,10 +46,10 @@ I am an experienced mobile application developer with a track record of developi
 
 
 ## Some Repo [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Utils/Icons/repository-icon.png">](https://github.com/lonewolfnadhu)
-[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=iOS)](https://github.com/lonewolfnadhu/iOS)
-[![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=Flutter)](https://github.com/lonewolfnadhu/Flutter)
-[![Android](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=Android)](https://github.com/lonewolfnadhu/Android)
-[![Util](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=Utils)](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Utils)
+[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
+[![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=flutter)](https://github.com/lonewolfnadhu/flutter)
+[![Android](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=android)](https://github.com/lonewolfnadhu/android)
+[![Util](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=lonewolfnadhu)](https://github.com/lonewolfnadhu/lonewolfnadhu)
 
 
 ## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Utils/Icons/projects-icon.png">](https://github.com/lonewolfnadhu)
