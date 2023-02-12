@@ -85,7 +85,7 @@ Package #18: 'code .' [Note: To open 'VS Code']
 ```
 
 
-### #3 Steps to open an 'iOS Simulator'
+### #3 Open an 'iOS Simulator'
 ```
 Step #1: Type 'xcrun simctl list devices'
 [FYI: List all 'iOS Simulators' / 'Physical Devices']
@@ -95,7 +95,7 @@ Step #2: Type 'open -a Simulator'
 ```
 
 
-### #4 Steps to open an 'Android Emulator'
+### #4 Open an 'Android Emulator'
 ```
 Step #1: Type 'adb devices'
 FYI: List all 'Android Emulators' / 'Physical Devices']
