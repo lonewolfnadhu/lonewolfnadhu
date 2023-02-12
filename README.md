@@ -49,7 +49,7 @@ I am an experienced mobile application developer with a track record of developi
 [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
 [![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=flutter)](https://github.com/lonewolfnadhu/flutter)
 [![Android](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=android)](https://github.com/lonewolfnadhu/android)
-[![Util](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=lonewolfnadhu)](https://github.com/lonewolfnadhu/lonewolfnadhu)
+[![Favourite](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=lonewolfnadhu)](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
 
 
 ## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/projects-icon.png">](https://github.com/lonewolfnadhu)
