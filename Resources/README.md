@@ -2,7 +2,7 @@
 Created by [Nadir Shah](https://linktr.ee/lonewolfnadhu)
 
 
-## #1 Terminal configuration
+## #1  "Terminal" Configuration
 ```
 [FYI: Configure 'Terminal' as below for better performance and making work faster]
 
@@ -43,7 +43,7 @@ https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell
 ```
 
 
-## #2 VS Code configuration
+## #2  "VS Code" Configuration
 ```
 [FYI: Install below 'VS Code' packages to make your IDE more stable and for better performance]
 
@@ -85,7 +85,7 @@ Package #18: 'code .' [Note: To open 'VS Code']
 ```
 
 
-### #3 Open an 'iOS Simulator'
+### #3  Open an 'iOS Simulator'
 ```
 Step #1: Type 'xcrun simctl list devices'
 [FYI: List all 'iOS Simulators' / 'Physical Devices']
@@ -95,7 +95,7 @@ Step #2: Type 'open -a Simulator'
 ```
 
 
-### #4 Open an 'Android Emulator'
+### #4  Open an 'Android Emulator'
 ```
 Step #1: Type 'adb devices'
 FYI: List all 'Android Emulators' / 'Physical Devices']
