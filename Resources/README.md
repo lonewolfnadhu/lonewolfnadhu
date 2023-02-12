@@ -2,7 +2,7 @@
 Created by [Nadir Shah](https://linktr.ee/lonewolfnadhu)
 
 
-## #1  "Terminal" Configuration
+## #1  'Terminal' Configuration
 ```
 [FYI: Configure 'Terminal' as below for better performance and making work faster]
 
@@ -43,7 +43,7 @@ https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell
 ```
 
 
-## #2  "VS Code" Configuration
+## #2  'VS Code' Configuration
 ```
 [FYI: Install below 'VS Code' packages to make your IDE more stable and for better performance]
 
