@@ -1,4 +1,4 @@
-<!-- <h1 align="center">
+<h1 align="center">
   <a href="https://github.com/lonewolfnadhu">    
     Hi, I am Nadir Shah...
   </a>
@@ -7,7 +7,7 @@
 <p align="center">
   Software Engineer | Mobile Application Developer
 </p>
- -->
+
 # Hi, I am Nadir...
 
 ### Mobile Application Developer
@@ -60,7 +60,7 @@ I am an experienced mobile application developer with a track record of developi
 ## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/projects-icon.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/telegram-icon.png">](https://t.me/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=07442013458&lang=en)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/facebook-icon.png">](https://www.facebook.com/lonewolfnadhu/)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/github-icon.png">](https://github.com/lonewolfnadhu)
