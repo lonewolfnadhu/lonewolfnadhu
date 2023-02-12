@@ -46,6 +46,7 @@ I am an experienced mobile application developer with a track record of developi
 
 ## My Stats [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/install-icon.png">](https://github.com/lonewolfnadhu)
 [![status](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=radical)](https://github.com/lonewolfnadhu)
+
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&langs_count=8&layout=compact)](https://github.com/lonewolfnadhu)
 
 
