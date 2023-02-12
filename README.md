@@ -1,17 +1,12 @@
 <h1 align="center">
   <a href="https://github.com/lonewolfnadhu">    
-    Hi, I am Nadir Shah...
+    Nadir Shah
   </a>
 </h1>
 
 <p align="center">
-  Software Engineer | Mobile Application Developer
+  Mobile Application Developer
 </p>
-
-# Hi, I am Nadir...
-
-### Mobile Application Developer
-
 
 ## About Me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/auther-icon.png">](https://github.com/lonewolfnadhu)
 I am an experienced mobile application developer with a track record of developing mobile apps using a variety of platforms, including iOS, Flutter, Android, and React Native.
