@@ -2,6 +2,22 @@
 Created by [Nadir Shah](https://linktr.ee/lonewolfnadhu)
 
 
+## My Favourite Configurations
+>
+> 01. 'Terminal' Configuration
+>
+> 02. 'VS Code' Configuration
+>
+> 03. Open an 'iOS Simulator'
+>
+> 04. Open an 'Android Emulator'
+>
+> 05. 'Git' Cheat Code
+>
+> 06. Configuring 'SSH Authentication' with GitHub
+>
+
+
 ## #1  'Terminal' Configuration
 ```
 [FYI: Configure 'Terminal' as below for better performance and making work faster]
