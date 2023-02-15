@@ -1,4 +1,4 @@
-# My favourite configuration, cheat code and so on [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/auther-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
+# My favourite configuration, cheat code and so on [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
 Created by [Nadir Shah](https://linktr.ee/lonewolfnadhu)
 
 
@@ -246,15 +246,15 @@ Step #08: ssh -T git@github.com
 ```
 
 
-## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/projects-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
+## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/projects-icon.png">](https://github.com/lonewolfnadhu)
 
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/nadir-icon.jpg">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://github.com/lonewolfnadhu)
 
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=07442013458&lang=en)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/facebook-icon.png">](https://www.facebook.com/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/github-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=07442013458&lang=en)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/facebook-icon.png">](https://www.facebook.com/lonewolfnadhu/)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/github-icon.png">](https://github.com/lonewolfnadhu)
 
 
 Show your support!
@@ -263,4 +263,4 @@ Show your support!
 Made with ❤️
 
 
-Copyright © 2020-2023 [Nadir Shah](https://linktr.ee/lonewolfnadhu)
+Copyright © 2016-2023 [Nadir Shah](https://linktr.ee/lonewolfnadhu)
