@@ -8,7 +8,7 @@
   Mobile Application Developer
 </p>
 
-## About Me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/Resources/Icons/auther-icon.png">](https://github.com/lonewolfnadhu)
+## About Me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu)
 I am an experienced mobile application developer with a track record of developing mobile apps using a variety of platforms, including iOS, Flutter, Android, and React Native.
 
 - Knowledge of mobile app analysis, design, development, testing, and troubleshooting. In addition, managing the App Store and Play Store. 
