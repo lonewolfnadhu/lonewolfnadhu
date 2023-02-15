@@ -1,24 +1,24 @@
-# My favourite configuration, cheat code and so on [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/Resources)
+# My favourite configuration, cheat code and so on [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/extras-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/my-favourite-configurations)
 Created by [Nadir Shah](https://linktr.ee/lonewolfnadhu)
 
 
-## My Favourite Configurations
+## My favourite configurations
 >
-> 01. 'Terminal' Configuration
+> 01. 'Terminal' configuration
 >
-> 02. 'VS Code' Configuration
+> 02. 'VS Code' configuration
 >
 > 03. Open an 'iOS Simulator'
 >
 > 04. Open an 'Android Emulator'
 >
-> 05. 'Git' Cheat Code
+> 05. 'Git' cheat code
 >
 > 06. Configuring 'SSH Authentication' with GitHub
 >
 
 
-## #1  'Terminal' Configuration
+## #1  'Terminal' configuration
 ```
 [FYI: Configure 'Terminal' as below for better performance and making work faster]
 
@@ -59,7 +59,7 @@ https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell
 ```
 
 
-## #2  'VS Code' Configuration
+## #2  'VS Code' configuration
 ```
 [FYI: Install below 'VS Code' packages to make your IDE more stable and for better performance]
 
@@ -121,7 +121,7 @@ Step #2: Type 'emulator -avd Pixel'
 ```
 
 
-### #5  'Git' Cheat Code
+### #5  'Git' cheat code
 ```
 Tip #01: git --version   <<<OR>>>   git version
 // Show git version
