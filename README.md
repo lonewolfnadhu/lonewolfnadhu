@@ -8,7 +8,7 @@
   Mobile Application Developer
 </p>
 
-## About Me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu)
+## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu)
 I am an experienced mobile application developer with a track record of developing mobile apps using a variety of platforms, including iOS, Flutter, Android, and React Native.
 
 - Knowledge of mobile app analysis, design, development, testing, and troubleshooting. In addition, managing the App Store and Play Store. 
@@ -16,7 +16,7 @@ I am an experienced mobile application developer with a track record of developi
 - Self-taught as well as an independent mobile app developer.
 
 
-## Languages and Tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/extras-icon.png">](https://github.com/lonewolfnadhu)
+## Languages & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/extras-icon.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/xcode-icon.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/swift-icon.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/android-studio-icon.png">](https://github.com/lonewolfnadhu)
@@ -39,13 +39,13 @@ I am an experienced mobile application developer with a track record of developi
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/terminal-icon.png">](https://github.com/lonewolfnadhu)
 
 
-## My Stats [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/install-icon.png">](https://github.com/lonewolfnadhu)
+## My stats [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/install-icon.png">](https://github.com/lonewolfnadhu)
 [![status](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=radical)](https://github.com/lonewolfnadhu)
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&langs_count=8&layout=compact)](https://github.com/lonewolfnadhu)
 
 
-## Some Repo [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/repository-icon.png">](https://github.com/lonewolfnadhu)
+## My favourite repositories [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/repository-icon.png">](https://github.com/lonewolfnadhu)
 [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
 [![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=flutter)](https://github.com/lonewolfnadhu/flutter)
 [![Android](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=android)](https://github.com/lonewolfnadhu/android)
