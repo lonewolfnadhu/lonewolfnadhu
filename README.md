@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/lonewolfnadhu">    
+  <a href="https://linktr.ee/lonewolfnadhu">    
     Nadir Shah
   </a>
 </h1>
@@ -57,9 +57,7 @@ I am an experienced mobile application developer with a track record of developi
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://github.com/lonewolfnadhu)
 
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=07442013458&lang=en)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/facebook-icon.png">](https://www.facebook.com/lonewolfnadhu/)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/github-icon.png">](https://github.com/lonewolfnadhu)
 
 
