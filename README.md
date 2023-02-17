@@ -54,7 +54,7 @@ I am an experienced mobile application developer with a track record of developi
 
 ## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/projects-icon.png">](https://github.com/lonewolfnadhu)
 
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://linktr.ee/lonewolfnadhu)
 
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
