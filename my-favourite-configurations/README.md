@@ -246,14 +246,12 @@ Step #08: ssh -T git@github.com
 ```
 
 
-## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/projects-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/my-favourite-configurations)
+## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/projects-icon.png">](https://github.com/lonewolfnadhu)
 
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/my-favourite-configurations)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://linktr.ee/lonewolfnadhu)
 
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=07442013458&lang=en)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/facebook-icon.png">](https://www.facebook.com/lonewolfnadhu/)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/github-icon.png">](https://github.com/lonewolfnadhu)
 
 
