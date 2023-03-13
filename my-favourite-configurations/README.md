@@ -220,6 +220,15 @@ Tip #30: open Text1.txt
 
 Tip #31: open -a Atom Text1.txt
 // It will open Text1.txt file in Atom Software
+
+Tip #32: git branch dev
+// A new branch will be created from main branch named 'dev'
+
+Tip #32: git checkout dev
+// Switch to 'dev' branch from current branch
+
+Tip #32: git branch
+// To check all branches in the current repository
 ```
 
 
