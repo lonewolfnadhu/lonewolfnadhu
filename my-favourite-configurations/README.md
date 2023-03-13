@@ -214,6 +214,12 @@ Tip #28: git remote -v
 
 Tip #29: which git
 // Shows git location
+
+Tip #30: open Text1.txt
+// It will open Text1.txt file
+
+Tip #31: open -a Atom Text1.txt
+// It will open Text1.txt file in Atom Software
 ```
 
 
