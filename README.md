@@ -8,13 +8,22 @@
   Mobile App Developer
 </p>
 
+<img align="right" height="250" width="450" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/development.gif"/>
+
 ## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu)
-I am an experienced mobile application developer with a track record of developing mobile apps using a variety of platforms, including iOS, Flutter, Android, and React Native.
+- I am an experienced **Mobile App Developer**.
+- Currently focusing **iOS and Flutter Development**.
+- Experience in **multi-faceted** roles, including **client-facing ones**.
+- **Self-taught** as well as an **independent** mobile app developer.
+- Expertise in **iOS**, **Flutter**, **Android** & **React Native** mobile app development.
+- Experienced in setting up projects, including reviewing code on Github,
+  setting up the CI/CD process on Git, and providing deployment, support, and maintenance.
+- Architecting solutionsfor complex high
 
-- Knowledge of mobile app analysis, design, development, testing, and troubleshooting. In addition, managing the App Store and Play Store. 
-- Expertise in mobile application development spanning over 4 years. Strong problem-solving and troubleshooting abilities.
-- Self-taught as well as an independent mobile app developer.
+<br>
 
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<br/>
 
 ## Languages & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/extras-icon.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/xcode-icon.png">](https://github.com/lonewolfnadhu)
