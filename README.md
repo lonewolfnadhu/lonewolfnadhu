@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=445&lines=Welcome+to+my+GitHub+Profile;I+am+a+Mobile+Application+Developer;now+complete+focus+on;iOS+and+Flutter+development" /></a>
 </p>
 
-<img align="right" height="320" width="480" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/app-1.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/app-1.gif"/>
 
 ## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/auther.png">](https://github.com/lonewolfnadhu)
 - I am an experienced **Mobile App Developer**.
