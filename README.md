@@ -60,6 +60,44 @@
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/terminal-icon.png">](https://github.com/lonewolfnadhu)
 
 
+
+### Streak stats
+
+<div align=center>
+
+  <a href="https://git.io/streak-stats">
+    <img alt="UlisesAlexanderAM's GitHub Streak" src="https://streak-stats.demolab.com?user=UlisesAlexanderAM&theme=neon-dark" /></a>
+
+</div>
+
+
+### Wakatime stats
+
+<div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="UlisesAlexanderAM's wakatime stats" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/wakatime?username=Ulises_Alexander_AM&theme=radical" /></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Languages and Tools:
 </h3>
