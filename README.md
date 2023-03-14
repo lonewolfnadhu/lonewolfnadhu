@@ -263,7 +263,8 @@
 
 
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Stats
+    
+    
 </h3>
 
 <p align="center" style='margin: 8px 4px;'>
@@ -287,6 +288,8 @@
 <p align="center" style='margin: 8px 4px;'>
     <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
 </p>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quiet-node&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## My stats [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/install-icon.png">](https://github.com/lonewolfnadhu)
