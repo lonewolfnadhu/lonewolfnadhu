@@ -9,21 +9,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=445&lines=Welcome+to+my+GitHub+Profile;I+am+a+Mobile+Application+Developer;now+complete+focus+on;iOS+and+Flutter+development" /></a>
 </p>
 
-<img align="right" height="250" width="450" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/development.gif"/>
+<img align="right" height="250" width="450" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/app-1.gif"/>
 
-## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu)
+## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/auther.png">](https://github.com/lonewolfnadhu)
 - I am an experienced **Mobile App Developer**.
-- Currently focusing **iOS and Flutter Development**.
+- Currently focusing **iOS** and **Flutter** Development.
 - Experience in **multi-faceted** roles, including **client-facing ones**.
 - **Self-taught** as well as an **independent** mobile app developer.
 - Expertise in **iOS**, **Flutter**, **Android** & **React Native** mobile app development.
-- Experienced in setting up projects, including reviewing code on Github,
-  setting up the CI/CD process on Git, and providing deployment, support, and maintenance.
-- Architecting solutionsfor complex high
+- Experienced in setting up projects, including reviewing code on Github, setting up the CI/CD process on Git, and providing deployment, support, and maintenance.
 
-<br>
-
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>
 <br/>
 
 ## Languages & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/extras-icon.png">](https://github.com/lonewolfnadhu)
