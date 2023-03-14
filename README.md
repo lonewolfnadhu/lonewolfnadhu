@@ -19,11 +19,11 @@
 - Expertise in **iOS**, **Flutter**, **Android** & **React Native** mobile app development.
 - Experienced in setting up projects, including reviewing code on Github, setting up the CI/CD process on Git, and providing deployment, support, and maintenance.
 
-<br> <br>
+<br>
 
 [<img align="left" height="300" width="300" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
 
-<br> <br>
+<br>
 
 ## Languages & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xcode-icon.png">](https://github.com/lonewolfnadhu)
