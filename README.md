@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://github.com/lonewolfnadhu/lonewolfnadhu">    
-    Howdy  Nadir Shah
+    Howdy <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/wave-hand.png">, it's Nadir Shah
   </a>
 </h1>
 
 <p align="center">
   <a href="https://github.com/lonewolfnadhu/lonewolfnadhu">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=445&lines=Hi,+Welcome+to+my+GitHub+Profile;I+am+a+Mobile+Application+Developer" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=445&lines=Welcome+to+my+GitHub+Profile;I+am+a+Mobile+Application+Developer;now+complete+focus+on;iOS+and+Flutter+development" /></a>
 </p>
 
 <img align="right" height="250" width="450" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/development.gif"/>
