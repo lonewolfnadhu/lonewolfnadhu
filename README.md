@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/lonewolfnadhu">    
-    Howdy <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/wave-hand.png">, it's Nadir
+    Howdy <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/waving-hand.png">, it's Nadir
   </a>
 </h1>
 
@@ -26,45 +26,45 @@
 <br> <br>
 
 ## Languages & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/xcode-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/swift-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/android-studio-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/eclipse-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/java-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/dart-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/vs-code-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/sublime-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/netbeans-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/react-native-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/java-script-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/pycharm-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/python-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/git-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/postman-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/firebase-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/linux-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/google-sheet-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/google-doc-icon.png">](https://github.com/lonewolfnadhu)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/terminal-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xcode-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/swift-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/android-studio-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/eclipse-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/java-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/dart-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/vs-code-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sublime-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/netbeans-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/react-native-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/java-script-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/pycharm-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/python-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/postman-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/firebase-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linux-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/google-sheet-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/google-doc-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/terminal-icon.png">](https://github.com/lonewolfnadhu)
 
 
-## My stats [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/install-icon.png">](https://github.com/lonewolfnadhu)
+## My stats [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/install-icon.png">](https://github.com/lonewolfnadhu)
 [![status](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=radical)](https://github.com/lonewolfnadhu)
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&langs_count=8&layout=compact)](https://github.com/lonewolfnadhu)
 
 
-## My favourite repositories [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/repository-icon.png">](https://github.com/lonewolfnadhu)
+## My favourite repositories [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/repository-icon.png">](https://github.com/lonewolfnadhu)
 [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
 
 
-## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/projects-icon.png">](https://github.com/lonewolfnadhu)
+## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/rocket.png">](https://github.com/lonewolfnadhu)
 
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://linktr.ee/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir.jpg">](https://linktr.ee/lonewolfnadhu)
 
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/github-icon.png">](https://github.com/lonewolfnadhu)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/instagram.png">](https://www.instagram.com/lonewolfnadhu/)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.png">](https://www.linkedin.com/in/lonewolfnadhu/)
+[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.png">](https://github.com/lonewolfnadhu)
 
 
 Show your support!
