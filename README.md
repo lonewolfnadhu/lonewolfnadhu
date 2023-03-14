@@ -13,15 +13,14 @@
 
 ## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/auther.png">](https://github.com/lonewolfnadhu)
 - I am an experienced **Mobile App Developer**.
-- Currently focusing **iOS** and **Flutter** Development.
-- Experience in **multi-faceted** roles, including **client-facing ones**.
-- **Self-taught** as well as an **independent** mobile app developer.
-- Expertise in **iOS**, **Flutter**, **Android** & **React Native** mobile app development.
-- Experienced in setting up projects, including reviewing code on Github, setting up the CI/CD process on Git, and providing deployment, support, and maintenance.
+- Currently focusing on **iOS** and **Flutter**.
+- Experience in **multi-faceted** roles
+- It includes **client-facing** ones.
+- **Self-taught** mobile app developer.
 
 <br>
 
-[<img align="left" height="400" width="350" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="300" width="250" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
 
 <br>
 
@@ -47,6 +46,7 @@
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/google-doc.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/terminal.png">](https://github.com/lonewolfnadhu)
 
+<br>
 
 ## My stats [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/install-icon.png">](https://github.com/lonewolfnadhu)
 [![status](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=radical)](https://github.com/lonewolfnadhu)
