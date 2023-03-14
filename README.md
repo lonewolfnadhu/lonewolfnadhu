@@ -80,6 +80,14 @@
 </div>
 
 
+### My GitHub Statistics
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EliusHHimel&show_icons=true&theme=highcontrast&repo=github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EliusHHimel&theme=android-dark)](https://git.io/streak-stats)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=chartreuse-dark&layout=compact)
 
 
 
