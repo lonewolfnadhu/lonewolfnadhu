@@ -450,6 +450,19 @@
 </details>
 
 
+<p><h1 align="left"> <strong>T O P &nbsp; R E P O S I T O R I E S</strong></h1>
+<br>
+<br>
+
+<a href="https://github.com/Ash-codes18/GYM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham" />
+</a>
+<a href="https://github.com/Ash-codes18/site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=Ash-Site&theme=gotham" />
+</a>
+
+
+
 ## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/projects-icon.png">](https://github.com/lonewolfnadhu)
 
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://linktr.ee/lonewolfnadhu)
