@@ -22,7 +22,8 @@
 
 <img align="right" height="250" width="450" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/development.gif"/>
 
-## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu)
+// ## [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png"> About me:](https://github.com/lonewolfnadhu)
+## <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png"> About me:
 - I am an experienced **Mobile App Developer**.
 - Currently focusing **iOS and Flutter Development**.
 - Experience in **multi-faceted** roles, including **client-facing ones**.
