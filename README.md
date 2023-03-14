@@ -8,6 +8,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
 </p>
 
+<p align="center">
+  <a href="https://github.com/quiet-node">
+    <img src="https://user-images.githubusercontent.com/66233296/213967317-e9b892fd-b74e-444c-b714-a38b05b40cd5.png" alt="Logan Nguyen" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/quiet-node">
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=445&lines=Full+stack+web+3.0+developer;Blockchain+smart +contract+enthusiast;Golang+%7C+TypeScript+%7C+Solidity+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></a>
+</p>
+
 <br> <br>
 
 <img align="right" height="250" width="450" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/development.gif"/>
