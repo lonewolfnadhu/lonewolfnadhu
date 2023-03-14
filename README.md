@@ -1,4 +1,4 @@
-<!-- <h1 align="center">
+<h1 align="center">
   <a href="https://linktr.ee/lonewolfnadhu">    
     Nadir Shah
   </a>
@@ -6,10 +6,6 @@
 
 <p align="center">
   Mobile App Developer
-</p> -->
-
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Hi,+I+am+Nadir+Shah;Welcome+to+my+GitHub+Profile" alt="HI, I am Nadir Shah. Welcome to my GitHub Profile"/>
 </p>
 
 ## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu)
