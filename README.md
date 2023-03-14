@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/quiet-node">
+  <a href="https://github.com/lonewolfnadhu">
     <img src="https://user-images.githubusercontent.com/66233296/213967317-e9b892fd-b74e-444c-b714-a38b05b40cd5.png" alt="Logan Nguyen" /></a>
 </p>
 
