@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://github.com/lonewolfnadhu/lonewolfnadhu">    
-    Howdy <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/wave-hand.png">, it's Nadir Shah
+  <a href="https://github.com/lonewolfnadhu">    
+    Howdy <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/wave-hand.png">, it's Nadir
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/lonewolfnadhu/lonewolfnadhu">
+  <a href="https://github.com/lonewolfnadhu">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=445&lines=Welcome+to+my+GitHub+Profile;I+am+a+Mobile+Application+Developer;now+complete+focus+on;iOS+and+Flutter+development" /></a>
 </p>
 
@@ -19,10 +19,13 @@
 - Expertise in **iOS**, **Flutter**, **Android** & **React Native** mobile app development.
 - Experienced in setting up projects, including reviewing code on Github, setting up the CI/CD process on Git, and providing deployment, support, and maintenance.
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>
-<br/>
+<br> <br>
 
-## Languages & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/extras-icon.png">](https://github.com/lonewolfnadhu)
+<img align="left" height="300" width="300" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>
+
+<br> <br>
+
+## Languages & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/xcode-icon.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/swift-icon.png">](https://github.com/lonewolfnadhu)
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/android-studio-icon.png">](https://github.com/lonewolfnadhu)
