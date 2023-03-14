@@ -4,10 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  Mobile App Developer
-</p>
-
 <img align="right" height="250" width="450" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/development.gif"/>
 
 ## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/auther-icon.png">](https://github.com/lonewolfnadhu)
