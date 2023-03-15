@@ -21,7 +21,7 @@
 - My dream job is at a product company, where I can express my love and attention for my users, within a smallish, supportive team, working with a fairly modern tech stack, where I can keep on learning and honing my skills.
 - **Self-taught** mobile app developer.
 
-[<img align="left" height="300" width="250" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="400" width="300" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
 
 <br><br>
 
@@ -36,6 +36,8 @@
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sublime.png"/></code>](https://github.com/lonewolfnadhu)
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/netbeans.png"/></code>](https://github.com/lonewolfnadhu)
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/react-native.png"/></code>](https://github.com/lonewolfnadhu)
+<code><img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+[<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>](https://github.com/lonewolfnadhu)
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/java-script.png"/></code>](https://github.com/lonewolfnadhu)
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/pycharm.png"/></code>](https://github.com/lonewolfnadhu)
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/python.png"/></code>](https://github.com/lonewolfnadhu)
@@ -46,6 +48,11 @@
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/google-sheet.png"/></code>](https://github.com/lonewolfnadhu)
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/google-doc.png"/></code>](https://github.com/lonewolfnadhu)
 [<code><img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/terminal.png"/></code>](https://github.com/lonewolfnadhu)
+<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
 
 <br><br>
 
