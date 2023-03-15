@@ -12,13 +12,13 @@
 [<img align="right" height="250" width="400" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/workspace.gif"/>](https://github.com/lonewolfnadhu)
 
 ## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/auther.png">](https://github.com/lonewolfnadhu)
-- I am an experienced **Mobile App Developer**.
+- I am an experienced **mobile app developer**.
 - Currently focusing on **iOS** and **Flutter** development.
 - Experience in **multi-faceted** roles, including **client-facing** ones.
-- Experienced in setting up projects, including reviewing code on **GitHub**, setting up the **CI/CD** process on Git, and providing deployment, support and maintenance.
-- I love **forking** usefull repositories.
-- I see myself coding till I die, all the while sharing my knowledge, helping newcomers grow, leading technical advancements and transformations.
-- My dream job is at a product company, where I can express my love and attention for my users, within a smallish, supportive team, working with a fairly modern tech stack, where I can keep on learning and honing my skills.
+- Experienced in setting up projects, including reviewing code on **GitHub**, setting up the **CI/CD** process on Git, and providing deployment, support, and maintenance.
+- I love **forking** useful repositories.
+- I see myself coding till I die, all the while sharing my knowledge, helping newcomers grow, and leading technical advancements and transformations.
+- My dream job is at a product company, where I can express my love and attention for my users, within a smallish, supportive team, working with a fairly modern tech stack, and where I can keep on learning and honing my skills.
 - **Self-taught** mobile app developer.
 
 [<img align="left" height="400" width="300" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
