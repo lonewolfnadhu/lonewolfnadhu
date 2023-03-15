@@ -79,12 +79,18 @@
 <code><img title="MS Powerpoint" alt="ms-power-point" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-power-point.svg"/></code>
 </details>
 
-<br><br>
+<br>
 
-## My stats [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/install-icon.png">](https://github.com/lonewolfnadhu)
-[![status](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=radical)](https://github.com/lonewolfnadhu)
+## My GitHub Statistics
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=highcontrast&repo=github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=neon-dark)](https://git.io/streak-stats)
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&langs_count=8&layout=compact)](https://github.com/lonewolfnadhu)
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact)
+
+  <!-- https://github.com/lonewolfnadhu/github-readme-activity-graph -->
+
+  <a href="https://github.com/lonewolfnadhu/github-readme-activity-graph"><img alt="Nadir Shah's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 ## My favourite repositories [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/repository-icon.png">](https://github.com/lonewolfnadhu)
