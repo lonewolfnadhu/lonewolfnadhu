@@ -26,44 +26,53 @@
 <br><br>
 
 ## Languages, frameworks & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png">](https://github.com/lonewolfnadhu)
+#### Languages | Tech's | IDE | Development Tools
 [<code><img title="Xcode" alt="xcode" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xcode.png"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Swift" alt="swift" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/swift.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Flutter" alt="flutter" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/flutter.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Dart" alt="dart" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/dart.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Android Studio" alt="android-studio" width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/android-studio.svg"/></code>](https://github.com/lonewolfnadhu)
-[<code><img title="Android" alt="android" width="42px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/android.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Eclipse" alt="eclipse" width="42px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/eclipse.svg"/></code>](https://github.com/lonewolfnadhu)
+[<code><img title="Android" alt="android" width="42px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/android.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Java" alt="java" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/java.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="VS Code" alt="vs-code" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/vs-code.svg"/></code>](https://github.com/lonewolfnadhu)
-[<code><img title="Sublime" alt="sublime" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sublime.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="React Native" alt="react-native" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/react-native.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Java Script" alt="java-script" width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/java-script.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="NPM" alt="npm" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/npm.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Py Charm" alt="pycharm" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/pycharm.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Python" alt="npm" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/python.svg"/></code>](https://github.com/lonewolfnadhu)
+[<code><img title="Sublime" alt="sublime" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sublime.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="HTML 5" alt="html5" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/html5.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="XML" alt="xml" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xml.svg"/></code>](https://github.com/lonewolfnadhu)
+
+#### Database management system 
 [<code><img title="Firebase" alt="firebase" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/firebase.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="My SQL" alt="my-sql" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/my-sql.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="SQL" alt="sql" width="50px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sql.svg"/></code>](https://github.com/lonewolfnadhu)
+
+#### Git | Version Control | CI/CD
 [<code><img title="Git" alt="git" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Git Hub" alt="github" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Git Lab" alt="gitlab" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/gitlab.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Bit Bucket" alt="bitbucket" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/bitbucket.svg"/></code>](https://github.com/lonewolfnadhu)
+
+#### Diagramming | UI/UX Design Tools
 [<code><img title="Adobe XD" alt="adobe-xd" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/adobe-xd.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Figma" alt="figma" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/figma.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Draw IO" alt="draw-io" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/draw-io.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Sketch" alt="sketch" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sketch.svg"/></code>](https://github.com/lonewolfnadhu)
+
+#### Operating Systems
 [<code><img title="MAC OS" alt="macos" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/macos.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Windows" alt="windows" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/windows.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Linux" alt="linux" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linux.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Ubuntu" alt="ubuntu" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ubuntu.svg"/></code>](https://github.com/lonewolfnadhu)
+
+#### MS Office
 [<code><img title="MS Office" alt="ms-office" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-office.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="MS Word" alt="ms-word" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-word.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="MS Excel" alt="ms-excel" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-excel.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="MS Powerpoint" alt="ms-power-point" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-power-point.svg"/></code>](https://github.com/lonewolfnadhu)
-[<code><img title="Postman" alt="postman" width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/postman.svg"/></code>](https://github.com/lonewolfnadhu)
-[<code><img title="Terminal" alt="terminal" width="42px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/terminal.svg"/></code>](https://github.com/lonewolfnadhu)
 
 <br><br>
 
