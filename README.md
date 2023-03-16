@@ -74,17 +74,17 @@
 <!-- Lang, Tools | END -->
 
 <!-- Top Repo | START -->
-## My top repositories [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/repository.png">](https://github.com/lonewolfnadhu)
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/top-repo.gif"/>](https://github.com/lonewolfnadhu)
+
+## Top Repositories
 [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
 <!-- Top Repo | END -->
 
-
-
-<br>
-
+<!-- Git Stats | START -->
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-stats.gif"/>](https://github.com/lonewolfnadhu)
 
 <details>
-<summary><h2> My GitHub Statistics <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/puzzle.png"></h2></summary>
+<summary><h2> My GitHub Statistics </h2></summary>
 
 ## My GitHub Statistics
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=highcontrast&repo=github-readme-stats)
@@ -97,15 +97,12 @@
 <!-- https://github.com/lonewolfnadhu/github-readme-activity-graph -->
 <a href="https://github.com/lonewolfnadhu/github-readme-activity-graph"><img alt="Nadir Shah's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
-
-
-
-
+<!-- Git Stats | END -->
 
 <!-- Connect | START -->
-[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/about-me.gif"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
 
-## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/rocket.png">](https://github.com/lonewolfnadhu)
+## Connect with me
 
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir.jpg">](https://linktr.ee/lonewolfnadhu)
 
