@@ -1,15 +1,20 @@
+<!-- Header | START -->
 <h1 align="center">
   <a href="https://github.com/lonewolfnadhu">    
     Howdy <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/waving-hand.png">, it's Nadir
   </a>
 </h1>
+<!-- Header | END -->
 
+<!-- Sub Header | START -->
 <p align="center">
   <a href="https://github.com/lonewolfnadhu">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=445&lines=Welcome+to+my+GitHub+Profile;I+am+a+Mobile+App+Developer;now+complete+focus+on;iOS+and+Flutter+development" /></a>
 </p>
+<!-- Sub Header | END -->
 
-[<img align="right" height="250" width="420" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/workspace.gif"/>](https://github.com/lonewolfnadhu)
+<!-- About Me | START -->
+[<img align="right" height="250" width="400" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/workspace.gif"/>](https://github.com/lonewolfnadhu)
 
 ## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/auther.png">](https://github.com/lonewolfnadhu)
 - I am an experienced **mobile app developer**.
@@ -20,16 +25,9 @@
 - I see myself coding till I die, all the while sharing my knowledge, helping newcomers grow, and leading technical advancements and transformations.
 - My dream job is at a product company, where I can express my love and attention for my users, within a smallish, supportive team, working with a fairly modern tech stack, and where I can keep on learning and honing my skills.
 - **Self-taught** mobile app developer.
+<!-- About Me | END -->
 
-[<img align="left" height="130" width="110" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
-
-<br>
-
-<details>
 <summary><h2>Languages, frameworks & tools <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png"></h2></summary>
-
-<br><br>
-
 <summary><h4>Languages | Tech's | IDE | Development Tools</h4></summary>
 <code><img title="Xcode" alt="xcode" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xcode.png"/></code>
 <code><img title="Swift" alt="swift" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/swift.svg"/></code>
@@ -77,20 +75,29 @@
 <code><img title="MS Word" alt="ms-word" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-word.svg"/></code>
 <code><img title="MS Excel" alt="ms-excel" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-excel.svg"/></code>
 <code><img title="MS Powerpoint" alt="ms-power-point" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-power-point.svg"/></code>
-</details>
+
+
+
+[<img align="left" height="130" width="110" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
 
 <br>
 
+
+<details>
+<summary><h2>My GitHub Statistics<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png"></h2></summary>
+
 ## My GitHub Statistics
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=highcontrast&repo=github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=neon-dark)](https://git.io/streak-stats)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact)
 
-  <!-- https://github.com/lonewolfnadhu/github-readme-activity-graph -->
+<!-- https://github.com/lonewolfnadhu/github-readme-activity-graph -->
+<a href="https://github.com/lonewolfnadhu/github-readme-activity-graph"><img alt="Nadir Shah's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
 
-  <a href="https://github.com/lonewolfnadhu/github-readme-activity-graph"><img alt="Nadir Shah's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 ## My favourite repositories [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/repository-icon.png">](https://github.com/lonewolfnadhu)
