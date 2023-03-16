@@ -89,7 +89,7 @@
 <!-- Top Repositories | END -->
 
 <!-- My GitHub Statistics | START -->
-[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github-statistics.gif"/>](https://github.com/lonewolfnadhu)
 
 ## My GitHub Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=chartreuse-dark)](https://github.com/lonewolfnadhu)
