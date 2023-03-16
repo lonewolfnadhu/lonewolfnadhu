@@ -1,22 +1,15 @@
 <!-- Header | START -->
-<h1 align="center">
-  <a href="https://github.com/lonewolfnadhu">    
-    Howdy <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/waving-hand.png">, it's Nadir
-  </a>
-</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&duration=1500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Howdy,+it's+Nadir+Shah;+Welcome+to+my+GitHub+Profile;I+am+a+Mobile+App+Developer"/>
+<br>
+<img height="250" width="400" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/workspace.gif"/>
+</div>
 <!-- Header | END -->
 
-<!-- Sub Header | START -->
-<p align="center">
-  <a href="https://github.com/lonewolfnadhu">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=445&lines=Welcome+to+my+GitHub+Profile;I+am+a+Mobile+App+Developer;now+complete+focus+on;iOS+and+Flutter+development" /></a>
-</p>
-<!-- Sub Header | END -->
-
 <!-- About Me | START -->
-[<img align="right" height="250" width="400" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/workspace.gif"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/about-me.gif"/>](https://github.com/lonewolfnadhu)
 
-## About me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/auther.png">](https://github.com/lonewolfnadhu)
+## About Me
 - I am an experienced **mobile app developer**.
 - Currently focusing on **iOS** and **Flutter** development.
 - Experience in **multi-faceted** roles, including **client-facing** ones.
@@ -28,7 +21,9 @@
 <!-- About Me | END -->
 
 <!-- Lang, Tools | START -->
-## Languages, frameworks & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png">](https://github.com/lonewolfnadhu)
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/lang-tools.gif"/>](https://github.com/lonewolfnadhu)
+
+## Languages | Frameworks | Tools
 #### Languages, technologies, IDE and tools
 <code><img title="Xcode" alt="xcode" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xcode.png"/></code>
 <code><img title="Swift" alt="swift" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/swift.svg"/></code>
@@ -83,7 +78,7 @@
 [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
 <!-- Top Repo | END -->
 
-[<img align="left" height="130" width="110" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
+
 
 <br>
 
@@ -107,6 +102,8 @@
 
 
 
+<!-- Connect | START -->
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/about-me.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/rocket.png">](https://github.com/lonewolfnadhu)
 
@@ -116,11 +113,11 @@
 [<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
 [<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
 
-
-Show your support!
-
-
 Made with ❤️
 
-
 Copyright © 2016-2023 [Nadir Shah](https://linktr.ee/lonewolfnadhu)
+<!-- Connect | END -->
+
+
+
+
