@@ -77,7 +77,16 @@
 [<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/top-repo.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Top Repositories
-[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
+[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=ios)](https://github.com/lonewolfnadhu/ios)
+[![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=flutter)](https://github.com/lonewolfnadhu/flutter)
+[![Git Cheat Code](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=git-cheat-code)](https://github.com/lonewolfnadhu/git-cheat-code)
+[![Configurations](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=configurations)](https://github.com/lonewolfnadhu/configurations)
+
+
+<a href="https://github.com/lonewolfnadhu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=lonewolfnadhu&theme=gotham" />
+</a>
+
 <!-- Top Repo | END -->
 
 <!-- Git Stats | START -->
@@ -87,9 +96,9 @@
 <summary><h2> My GitHub Statistics </h2></summary>
 
 ## My GitHub Statistics
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=highcontrast&repo=github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=chartreuse-dark&repo=github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=neon-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact)
