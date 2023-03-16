@@ -73,7 +73,7 @@
 <code><img title="Safari" alt="safari" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/safari.svg"/></code>
 <!-- Lang, Tools | END -->
 
-## Top Languages
+#### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact)
 
 <!-- Top Repo | START -->
