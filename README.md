@@ -73,8 +73,8 @@
 <code><img title="Safari" alt="safari" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/safari.svg"/></code>
 <!-- Lang, Tools | END -->
 
-#### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact)
+#### Most languages used in my GitHub
+<code>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact)</code>
 
 <!-- Top Repo | START -->
 [<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
