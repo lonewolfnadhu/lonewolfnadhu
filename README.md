@@ -73,39 +73,31 @@
 <code><img title="Safari" alt="safari" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/safari.svg"/></code>
 <!-- Lang, Tools | END -->
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact)
+
 <!-- Top Repo | START -->
-[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/top-repo.gif"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Top Repositories
 [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=ios)](https://github.com/lonewolfnadhu/ios)
 [![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=flutter)](https://github.com/lonewolfnadhu/flutter)
 [![Git Cheat Code](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=git-cheat-code)](https://github.com/lonewolfnadhu/git-cheat-code)
 [![Configurations](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=configurations)](https://github.com/lonewolfnadhu/configurations)
-
-
-<a href="https://github.com/lonewolfnadhu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=lonewolfnadhu&theme=gotham" />
-</a>
-
 <!-- Top Repo | END -->
 
 <!-- Git Stats | START -->
-[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-stats.gif"/>](https://github.com/lonewolfnadhu)
-
-<details>
-<summary><h2> My GitHub Statistics </h2></summary>
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
 
 ## My GitHub Statistics
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=chartreuse-dark&repo=github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact)
+<a href="https://github.com/lonewolfnadhu/github-readme-activity-graph"><img alt="Nadir Shah's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=000000&color=29FB00&line=FF3D0D&point=FFFFFF&hide_border=false" /></a>
 
-<!-- https://github.com/lonewolfnadhu/github-readme-activity-graph -->
-<a href="https://github.com/lonewolfnadhu/github-readme-activity-graph"><img alt="Nadir Shah's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
+</p>
 <!-- Git Stats | END -->
 
 <!-- Connect | START -->
