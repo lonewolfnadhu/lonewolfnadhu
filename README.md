@@ -27,8 +27,9 @@
 - **Self-taught** mobile app developer.
 <!-- About Me | END -->
 
-<summary><h2>Languages, frameworks & tools <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png"></h2></summary>
-<summary><h4>Languages | Tech's | IDE | Development Tools</h4></summary>
+<!-- Lang, Tools | START -->
+## Languages, frameworks & tools [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png">](https://github.com/lonewolfnadhu)
+#### Languages, technologies, IDE and tools
 <code><img title="Xcode" alt="xcode" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xcode.png"/></code>
 <code><img title="Swift" alt="swift" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/swift.svg"/></code>
 <code><img title="Flutter" alt="flutter" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/flutter.svg"/></code>
@@ -47,35 +48,29 @@
 <code><img title="HTML 5" alt="html5" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/html5.svg"/></code>
 <code><img title="XML" alt="xml" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xml.svg"/></code>
 
-<summary><h4>Database management system</h4></summary>
+#### Database, Git (Version Control, CI/CD), UI/UX design tools
 <code><img title="Firebase" alt="firebase" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/firebase.svg"/></code>
 <code><img title="My SQL" alt="my-sql" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/my-sql.svg"/></code>
 <code><img title="SQL" alt="sql" width="50px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sql.svg"/></code>
-
-<summary><h4>Git | Version Control | CI/CD</h4></summary>
 <code><img title="Git" alt="git" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git.svg"/></code>
 <code><img title="Git Hub" alt="github" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/></code>
 <code><img title="Git Lab" alt="gitlab" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/gitlab.svg"/></code>
 <code><img title="Bit Bucket" alt="bitbucket" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/bitbucket.svg"/></code>
-
-<summary><h4>Diagramming | UI/UX Design Tools</h4></summary>
 <code><img title="Adobe XD" alt="adobe-xd" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/adobe-xd.svg"/></code>
 <code><img title="Figma" alt="figma" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/figma.svg"/></code>
 <code><img title="Draw IO" alt="draw-io" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/draw-io.svg"/></code>
 <code><img title="Sketch" alt="sketch" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sketch.svg"/></code>
 
-<summary><h4>Operating Systems</h4></summary>
+#### Operating systems and softwares
 <code><img title="MAC OS" alt="macos" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/macos.svg"/></code>
 <code><img title="Windows" alt="windows" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/windows.svg"/></code>
 <code><img title="Linux" alt="linux" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linux.svg"/></code>
 <code><img title="Ubuntu" alt="ubuntu" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ubuntu.svg"/></code>
-
-<summary><h4>MS Office</h4></summary>
 <code><img title="MS Office" alt="ms-office" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-office.svg"/></code>
 <code><img title="MS Word" alt="ms-word" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-word.svg"/></code>
 <code><img title="MS Excel" alt="ms-excel" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-excel.svg"/></code>
 <code><img title="MS Powerpoint" alt="ms-power-point" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-power-point.svg"/></code>
-
+<!-- Lang, Tools | END -->
 
 
 [<img align="left" height="130" width="110" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
