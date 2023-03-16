@@ -46,7 +46,10 @@
 <code><img title="Python" alt="npm" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/python.svg"/></code>
 <code><img title="Sublime" alt="sublime" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sublime.svg"/></code>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/html5.svg"/></code>
+<code><img title="CSS" alt="css" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/css.svg"/></code>
 <code><img title="XML" alt="xml" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xml.svg"/></code>
+<code><img title="Postman" alt="postman" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/postman.svg"/></code>
+<code><img title="Terminal" alt="terminal" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/terminal.svg"/></code>
 
 #### Database, Git (Version Control, CI/CD), UI/UX design tools
 <code><img title="Firebase" alt="firebase" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/firebase.svg"/></code>
@@ -56,12 +59,13 @@
 <code><img title="Git Hub" alt="github" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/></code>
 <code><img title="Git Lab" alt="gitlab" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/gitlab.svg"/></code>
 <code><img title="Bit Bucket" alt="bitbucket" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/bitbucket.svg"/></code>
+<code><img title="Fastlane" alt="fastlane" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/fastlane.svg"/></code>
 <code><img title="Adobe XD" alt="adobe-xd" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/adobe-xd.svg"/></code>
 <code><img title="Figma" alt="figma" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/figma.svg"/></code>
 <code><img title="Draw IO" alt="draw-io" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/draw-io.svg"/></code>
 <code><img title="Sketch" alt="sketch" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sketch.svg"/></code>
 
-#### Operating systems and softwares
+#### Operating systems, softwares and browsers
 <code><img title="MAC OS" alt="macos" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/macos.svg"/></code>
 <code><img title="Windows" alt="windows" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/windows.svg"/></code>
 <code><img title="Linux" alt="linux" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linux.svg"/></code>
@@ -70,8 +74,14 @@
 <code><img title="MS Word" alt="ms-word" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-word.svg"/></code>
 <code><img title="MS Excel" alt="ms-excel" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-excel.svg"/></code>
 <code><img title="MS Powerpoint" alt="ms-power-point" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/ms-power-point.svg"/></code>
+<code><img title="Chrome" alt="chrome" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/chrome.svg"/></code>
+<code><img title="Safari" alt="safari" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/safari.svg"/></code>
 <!-- Lang, Tools | END -->
 
+<!-- Top Repo | START -->
+## My top repositories [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/repository.png">](https://github.com/lonewolfnadhu)
+[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
+<!-- Top Repo | END -->
 
 [<img align="left" height="130" width="110" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/git-robot.gif"/>](https://github.com/lonewolfnadhu)
 
@@ -79,7 +89,7 @@
 
 
 <details>
-<summary><h2>My GitHub Statistics<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/mobile.png"></h2></summary>
+<summary><h2> My GitHub Statistics <img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/puzzle.png"></h2></summary>
 
 ## My GitHub Statistics
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=highcontrast&repo=github-readme-stats)
@@ -95,17 +105,16 @@
 
 
 
-## My favourite repositories [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/repository-icon.png">](https://github.com/lonewolfnadhu)
-[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&repo=ios)](https://github.com/lonewolfnadhu/ios)
+
 
 
 ## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/rocket.png">](https://github.com/lonewolfnadhu)
 
 [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir.jpg">](https://linktr.ee/lonewolfnadhu)
 
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/instagram.png">](https://www.instagram.com/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.png">](https://www.linkedin.com/in/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.png">](https://github.com/lonewolfnadhu)
+[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
+[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
+[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
 
 
 Show your support!
