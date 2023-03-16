@@ -79,7 +79,7 @@
 <!-- Most languages used in my GitHub | END -->
 
 <!-- Top Repositories | START -->
-[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/top-repo.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Top Repositories
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=ios"/>](https://github.com/lonewolfnadhu/ios)
