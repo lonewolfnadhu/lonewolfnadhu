@@ -1,8 +1,8 @@
 <!-- Header | START -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&duration=1500&pause=2000&color=29FB00&center=true&vCenter=true&width=500&lines=Howdy,+it's+Nadir+Shah;+Welcome+to+my+GitHub+Profile;I+am+a+Mobile+App+Developer"/>
-<br>
-<img height="250" width="400" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/workspace.gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&duration=1500&pause=2000&color=29FB00&center=true&vCenter=true&width=500&lines=Howdy,+it's+Nadir+Shah;+Welcome+to+my+GitHub+Profile;I+am+a+Mobile+App+Developer"/>
+  <br>
+  <img height="250" width="400" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/workspace.gif"/>
 </div>
 <!-- Header | END -->
 
@@ -13,9 +13,9 @@
 - I am an experienced **mobile app developer**.
 - Currently focusing on **iOS** and **Flutter** development.
 - Experience in **multi-faceted** roles, including **client-facing** ones.
-- Experienced in setting up projects, including reviewing code on **GitHub**, setting up the **CI/CD** process on Git, and providing deployment, support, and maintenance.
+- Experienced in setting up projects, including reviewing code on **GitHub**, setting up the **CI/CD** process on **Git**, and providing **deployment**, **support** and **maintenance**.
 - I love **forking** useful repositories.
-- I see myself coding till I die, all the while sharing my knowledge, helping newcomers grow, and leading technical advancements and transformations.
+- I see myself **coding** till I die, all the while sharing my knowledge, helping newcomers grow, and leading technical advancements and transformations.
 - My dream job is at a product company, where I can express my love and attention for my users, within a smallish, supportive team, working with a fairly modern tech stack, and where I can keep on learning and honing my skills.
 - **Self-taught** mobile app developer.
 <!-- About Me | END -->
@@ -24,7 +24,7 @@
 [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/lang-tools.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Languages | Frameworks | Tools
-#### Languages, IDE, technologies and tools
+#### IDE, languages, technologies and tools
 [<code><img title="Xcode" alt="xcode" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/xcode.png"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Swift" alt="swift" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/swift.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Flutter" alt="flutter" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/flutter.svg"/></code>](https://github.com/lonewolfnadhu)
@@ -46,7 +46,7 @@
 [<code><img title="Postman" alt="postman" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/postman.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Terminal" alt="terminal" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/terminal.svg"/></code>](https://github.com/lonewolfnadhu)
 
-#### Database, Git (Version Control, CI/CD), UI/UX design tools
+#### Database, Git (Version control, CI/CD), UI/UX design tools
 [<code><img title="Firebase" alt="firebase" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/firebase.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="My SQL" alt="my-sql" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/my-sql.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="SQL" alt="sql" width="50px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sql.svg"/></code>](https://github.com/lonewolfnadhu)]
