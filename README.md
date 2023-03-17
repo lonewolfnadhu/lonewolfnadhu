@@ -92,8 +92,8 @@
 [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github-statistics.gif"/>](https://github.com/lonewolfnadhu)
 
 ## My GitHub Statistics
-[<img align="left" height="300" width="380" src="https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
-[<img align="right" height="300" width="380" src="https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="260" width="380" src="https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
+[<img align="right" height="260" width="380" src="https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
 [![GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=000000&color=29FB00&line=FF3D0D&point=FFFFFF&hide_border=false)](https://github.com/lonewolfnadhu)
 <!-- My GitHub Statistics | END -->
 
