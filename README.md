@@ -84,6 +84,7 @@
 ## Top Repositories
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=ios"/>](https://github.com/lonewolfnadhu/ios)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=flutter"/>](https://github.com/lonewolfnadhu/flutter)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=lonewolfnadhu"/>](https://github.com/lonewolfnadhu/lonewolfnadhu)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=git-cheat-code"/>](https://github.com/lonewolfnadhu/git-cheat-code)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=configurations"/>](https://github.com/lonewolfnadhu/configurations)
 <!-- Top Repositories | END -->
