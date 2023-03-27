@@ -75,17 +75,21 @@
 
 <!-- Most languages used in my GitHub | START -->
 #### Most languages used in my GitHub
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact"/>](https://github.com/lonewolfnadhu)
+[<img src="https://readme-stats.warengonzaga.com/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact"/>](https://github.com/lonewolfnadhu)
+
+<!-- 
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lonewolfnadhu&theme=chartreuse-dark&layout=compact"/>](https://github.com/lonewolfnadhu)
+-->
 <!-- Most languages used in my GitHub | END -->
 
 <!-- Top Repositories | START -->
 [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/top-repo.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Top Repositories
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=ios"/>](https://github.com/lonewolfnadhu/ios)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=flutter"/>](https://github.com/lonewolfnadhu/flutter)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=lonewolfnadhu"/>](https://github.com/lonewolfnadhu/lonewolfnadhu)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=cheat-code-config"/>](https://github.com/lonewolfnadhu/git-cheat-code)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=ios"/>](https://github.com/lonewolfnadhu/ios)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=flutter"/>](https://github.com/lonewolfnadhu/flutter)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=lonewolfnadhu"/>](https://github.com/lonewolfnadhu/lonewolfnadhu)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=cheat-code-config"/>](https://github.com/lonewolfnadhu/git-cheat-code)
 <!-- Top Repositories | END -->
 
 <!-- My GitHub Statistics | START -->
@@ -93,7 +97,7 @@
 
 ## My GitHub Statistics
 [<img align="left" height="220" width="380" src="https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
-[<img align="right" height="220" width="380" src="https://github-readme-stats.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
+[<img align="right" height="220" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
 [![GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=000000&color=29FB00&line=FF3D0D&point=FFFFFF&hide_border=false)](https://github.com/lonewolfnadhu)
 <!-- My GitHub Statistics | END -->
 
