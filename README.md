@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&duration=1500&pause=2000&color=29FB00&center=true&vCenter=true&width=500&lines=Howdy,+it's+Nadir+Shah;+Welcome+to+my+GitHub+Profile;I+am+a+Mobile+App+Developer"/>
   <br>
-  <img height="250" width="400" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/workspace.gif"/>
+  <img alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-banner.gif"/>
 </div>
 <!-- Header | END -->
 
