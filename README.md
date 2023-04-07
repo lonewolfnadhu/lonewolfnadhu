@@ -38,7 +38,7 @@
 [<code><img title="Java Script" alt="java-script" width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/java-script.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="NPM" alt="npm" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/npm.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Py Charm" alt="py-charm" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/py-charm.svg"/></code>](https://github.com/lonewolfnadhu)
-[<code><img title="Python" alt="npm" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/python.svg"/></code>](https://github.com/lonewolfnadhu)
+[<code><img title="Python" alt="python" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/python.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Sublime" alt="sublime" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sublime.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="HTML 5" alt="html5" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/html5.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="CSS" alt="css" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/css.svg"/></code>](https://github.com/lonewolfnadhu)
