@@ -10,14 +10,15 @@
 [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/about-me.gif"/>](https://github.com/lonewolfnadhu)
 
 ## About Me
-- I am an experienced **mobile app developer**.
-- Currently focusing on **iOS** and **Flutter** development.
-- Experience in **multi-faceted** roles, including **client-facing** ones.
-- Experienced in setting up projects, including reviewing code on **GitHub**, setting up the **CI/CD** process on **Git**, and providing **deployment**, **support** and **maintenance**.
-- I love **forking** useful repositories.
-- I see myself **coding** till I die, all the while sharing my knowledge, helping newcomers grow, and leading technical advancements and transformations.
-- My dream job is at a product company, where I can express my love and attention for my users, within a smallish, supportive team, working with a fairly modern tech stack, and where I can keep on learning and honing my skills.
-- **Self-taught** mobile app developer.
+- As a seasoned **mobile app developer**, I have gained extensive experience in the field.
+- At present, I am primarily focused on developing mobile applications using **iOS** and **Flutter** technologies.
+- Throughout my career, I have served in various **multifaceted roles**, including **client-facing** positions.
+- I have been instrumental in project setup, including reviewing code on **GitHub**, streamlining the **CI/CD** process on **Git**, and delivering **deployment** and **maintenance**.
+- I possess a good understanding of **iOS pipelines** using **Continuous Integration**, **Delivery**, **Deployment** **(CI/CD)** tools.
+- I have a particular affinity for **forking** useful repositories, as it allows me to continually enhance my own **expertise**.
+- My passion for coding drives me to continue **honing my skills** and **sharing my knowledge** with others. I am committed to assisting newcomers in their growth, and to leading technical advancements and transformations throughout my career.
+- My ultimate career goal is to work with a product company that shares my values and passion for providing exceptional user experiences. I envision being a part of supportive team that works with **modern tech stacks**, and where I can continue learning and honing my skills.
+- As a **self-taught mobile app developer**, I have been able to gain practical, hands-on experience and develop a deep understanding of the field.
 <!-- About Me | END -->
 
 <!-- Languages | Frameworks | Tools | START -->
@@ -86,10 +87,12 @@
 [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/top-repo.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Top Repositories
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=swift-ui-ios"/>](https://github.com/lonewolfnadhu/swift-ui-ios)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=lonewolfnadhu"/>](https://github.com/lonewolfnadhu/lonewolfnadhu)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=url-session-ios"/>](https://github.com/lonewolfnadhu/url-session-ios)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=alamofire-ios"/>](https://github.com/lonewolfnadhu/alamofire-ios)
 [<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=ios"/>](https://github.com/lonewolfnadhu/ios)
 [<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=flutter"/>](https://github.com/lonewolfnadhu/flutter)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=lonewolfnadhu"/>](https://github.com/lonewolfnadhu/lonewolfnadhu)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=cheat-code-config"/>](https://github.com/lonewolfnadhu/git-cheat-code)
 <!-- Top Repositories | END -->
 
 <!-- My GitHub Statistics | START -->
