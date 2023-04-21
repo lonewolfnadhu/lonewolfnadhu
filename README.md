@@ -87,12 +87,12 @@
 [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/top-repo.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Top Repositories
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=swift-ui-ios"/>](https://github.com/lonewolfnadhu/swift-ui-ios)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=lonewolfnadhu"/>](https://github.com/lonewolfnadhu/lonewolfnadhu)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=url-session-ios"/>](https://github.com/lonewolfnadhu/url-session-ios)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=alamofire-ios"/>](https://github.com/lonewolfnadhu/alamofire-ios)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=ios"/>](https://github.com/lonewolfnadhu/ios)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=flutter"/>](https://github.com/lonewolfnadhu/flutter)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=SwiftUI-iOS"/>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=UIKit-iOS"/>](https://github.com/lonewolfnadhu/UIKit-iOS)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=URLSession-iOS"/>](https://github.com/lonewolfnadhu/URLSession-iOS)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=Alamofire-iOS"/>](https://github.com/lonewolfnadhu/Alamofire-iOS)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=iOS"/>](https://github.com/lonewolfnadhu/iOS)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=Flutter"/>](https://github.com/lonewolfnadhu/Flutter)
 <!-- Top Repositories | END -->
 
 <!-- My GitHub Statistics | START -->
