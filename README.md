@@ -11,7 +11,7 @@
 
 ## About Me
 - As a seasoned **mobile app developer**, I have gained extensive experience in the field.
-- At present, I am primarily focused on developing mobile applications using **iOS** and **Flutter** technologies.
+- At present, I am primarily focused on developing mobile applications using **iOS** technologies.
 - Throughout my career, I have served in various **multifaceted roles**, including **client-facing** positions.
 - I have been instrumental in project setup, including reviewing code on **GitHub**, streamlining the **CI/CD** process on **Git**, and delivering **deployment** and **maintenance**.
 - I possess a good understanding of **iOS pipelines** using **Continuous Integration**, **Delivery**, **Deployment** **(CI/CD)** tools.
