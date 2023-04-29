@@ -47,7 +47,7 @@
 [<code><img title="Postman" alt="postman" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/postman.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="Terminal" alt="terminal" width="45px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/terminal.svg"/></code>](https://github.com/lonewolfnadhu)
 
-#### Database, Git (Version control, CI/CD), UI/UX design tools
+#### Database, Git (Version control, CI/CD) and UI/UX design tools
 [<code><img title="Firebase" alt="firebase" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/firebase.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="My SQL" alt="my-sql" width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/my-sql.svg"/></code>](https://github.com/lonewolfnadhu)
 [<code><img title="SQL" alt="sql" width="50px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/sql.svg"/></code>](https://github.com/lonewolfnadhu)]
