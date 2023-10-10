@@ -87,10 +87,12 @@
 [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/top-repo.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Top Repositories
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=SwiftUI-iOS"/>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=UIKit-iOS"/>](https://github.com/lonewolfnadhu/UIKit-iOS)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=URLSession-iOS"/>](https://github.com/lonewolfnadhu/URLSession-iOS)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=Alamofire-iOS"/>](https://github.com/lonewolfnadhu/Alamofire-iOS)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=swiftui-ios"/>](https://github.com/lonewolfnadhu/swiftui-ios)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=uikit-ios"/>](https://github.com/lonewolfnadhu/uikit-ios)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=url-session-ios"/>](https://github.com/lonewolfnadhu/url-session-ios)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=alamofire-ios"/>](https://github.com/lonewolfnadhu/alamofire-ios)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=firebase-ios"/>](https://github.com/lonewolfnadhu/firebase-ios)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lonewolfnadhu&theme=chartreuse-dark&repo=tableview-ios"/>](https://github.com/lonewolfnadhu/tableview-ios)
 <!-- Top Repositories | END -->
 
 <!-- My GitHub Statistics | START -->
