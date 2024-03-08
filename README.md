@@ -101,7 +101,7 @@
 ## My GitHub Statistics
 [<img align="left" height="220" width="380" src="https://github-readme-streak-stats.herokuapp.com?user=lonewolfnadhu&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
 [<img align="right" height="220" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lonewolfnadhu&show_icons=true&theme=chartreuse-dark"/>](https://github.com/lonewolfnadhu)
-[![GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=000000&color=29FB00&line=FF3D0D&point=FFFFFF&hide_border=false)](https://github.com/lonewolfnadhu)
+<!-- [![GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=lonewolfnadhu&bg_color=000000&color=29FB00&line=FF3D0D&point=FFFFFF&hide_border=false)](https://github.com/lonewolfnadhu) -->
 <!-- My GitHub Statistics | END -->
 
 <!-- Connect | START -->
