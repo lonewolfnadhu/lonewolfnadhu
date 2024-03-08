@@ -118,5 +118,5 @@
 
 Made with ❤️
 
-Copyright © [Nadir Shah](https://linktr.ee/lonewolfnadhu)
+Copyright © [Nadir](https://linktr.ee/lonewolfnadhu)
 <!-- Connect | END -->
